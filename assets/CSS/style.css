@@ -198,7 +198,11 @@ p {
     text-align: center;
 }
 
-.footer h4 {
+.footer h4 { 
     font-size: 20px;
+}
+
+.fake {
+    color: #000;
 }
 
